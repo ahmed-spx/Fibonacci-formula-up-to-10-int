@@ -1,5 +1,4 @@
-
-Concept Summary:
+In this lab for my CSE 1322 Programming Problem Solving II at Kennesaw State University, we covered these topics.
 1. Object Oriented programming concepts
 2. Interfaces
 
